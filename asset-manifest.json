@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reg-form/static/css/main.4ce0e45c.css",
+    "main.js": "/reg-form/static/js/main.35ebf696.js",
+    "static/js/453.b1d7b4c0.chunk.js": "/reg-form/static/js/453.b1d7b4c0.chunk.js",
+    "static/media/water.avif": "/reg-form/static/media/water.1e0367ddc7306a2d08d0.avif",
+    "index.html": "/reg-form/index.html",
+    "main.4ce0e45c.css.map": "/reg-form/static/css/main.4ce0e45c.css.map",
+    "main.35ebf696.js.map": "/reg-form/static/js/main.35ebf696.js.map",
+    "453.b1d7b4c0.chunk.js.map": "/reg-form/static/js/453.b1d7b4c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ce0e45c.css",
+    "static/js/main.35ebf696.js"
+  ]
+}
